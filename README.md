@@ -1,4 +1,4 @@
-# Low-Level-Design
+# Low-Level-Design Ideas
 
 1. Design Truecaller
 2. Design Snake and Ladder Game
