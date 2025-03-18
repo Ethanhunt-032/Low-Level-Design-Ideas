@@ -26,4 +26,7 @@
 24. Movie Ticket Booking
 25. Uber Eats/DoorDash/Swiggy
 26. E-commerce Review System
-
+27. Design an ATM Machine
+28. Design a Food Delivery System
+29. Design a Library Management System
+30. Design a API Rate Limiter
